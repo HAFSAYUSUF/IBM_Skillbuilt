@@ -16,7 +16,7 @@ To design and implement an **AI-powered assistant agent** using **Retrieval-Augm
 - Deployable in academic environments as a decision support tool
 
 > 🖼️ *Screenshot:*
-![NBA Agent Screenshot](./screenshots/nba_agent_ui.png)
+![NBA Agent Screenshot](Screenshot 2025-08-01 211328.png)
 
 ---
 
