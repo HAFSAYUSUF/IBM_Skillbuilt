@@ -44,7 +44,7 @@ Performed exploratory data analysis (EDA) on a publicly available dataset as par
 - Insights to guide decision-making
 
 > 🖼️ *Screenshot:*
-![Data Analysis Screenshot](./screenshots/data_analysis.png)
+![Data Analysis Screenshot](https://github.com/HAFSAYUSUF/IBM_Skillbuilt/blob/main/Screenshot%202025-07-29%20000334.png?raw=true)
 ### NBA Accreditation AI Agent (RAG-Based)
 
 This AI assistant was built using IBM Watson tools to assist faculty in understanding NBA accreditation criteria and guidelines.
