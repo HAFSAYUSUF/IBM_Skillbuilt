@@ -52,9 +52,6 @@ This AI assistant was built using IBM Watson tools to assist faculty in understa
 - Relevant document sections are retrieved and summarized
 - Helpful for preparing documentation and compliance reports
 
-## Screenshot:
-![UI](./nba_agent_ui.png)
----
 
 ## 📘 Internship Modules Completed
 
