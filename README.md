@@ -31,7 +31,7 @@ Developed a conversational agent that assists users in learning and understandin
 - Deployable via web or IBM Cloud Functions
 
 > 🖼️ *Screenshot:*
-![Audio Chatbot Screenshot](./screenshots/audio_chatbot_ui.png)
+![Audio Chatbot Screenshot](https://github.com/HAFSAYUSUF/IBM_Skillbuilt/blob/main/Screenshot%202025-07-31%20220009.png?raw=true)
 
 ---
 
